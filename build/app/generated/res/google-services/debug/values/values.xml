@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">346844214219-j4hpt2vvsajbbomcfeebsas1a34146ir.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">346844214219</string>
+    <string name="google_api_key" translatable="false">AIzaSyDUz3E4DnSAhWbo8mRbhZb3ivDvaWSaarw</string>
+    <string name="google_app_id" translatable="false">1:346844214219:android:96c67d7a09e27b3295bc4e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDUz3E4DnSAhWbo8mRbhZb3ivDvaWSaarw</string>
+    <string name="google_storage_bucket" translatable="false">whattocook-30372.appspot.com</string>
+    <string name="project_id" translatable="false">whattocook-30372</string>
+</resources>
