@@ -96,27 +96,6 @@ class _MainMenuState extends State<MainMenu> {
     );
   }
 }
-/*appBar: PreferredSize(
-        preferredSize: Size.fromHeight(200),
-        child: AppBar(
-          flexibleSpace: ClipRRect(
-            borderRadius: BorderRadius.only(
-                bottomRight: Radius.circular(30), bottomLeft: Radius.circular(30)),
-            child: Container(
-              decoration: BoxDecoration(
-                image: DecorationImage(
-                  image: AssetImage('images/bgMenu.png'),
-                  fit: BoxFit.fill
-                )
-              ),
-            ),
-          ),
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.only(
-                bottomRight: Radius.circular(30), bottomLeft: Radius.circular(30)),
-          ),
-        ),
-      ),*/
 
 class MyClipper extends CustomClipper<Path>{
   @override
