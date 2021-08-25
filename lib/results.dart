@@ -120,12 +120,3 @@ class _ResultsState extends State<Results> {
     );
   }
 }
-// appBar: AppBar(
-// title: Text('Enjoy !'),
-// centerTitle: true,
-// shape: RoundedRectangleBorder(
-// borderRadius: BorderRadius.only(
-// bottomRight: Radius.circular(10), bottomLeft: Radius.circular(10)),
-// ),
-// backgroundColor: Colors.blueGrey[900],
-// ),
